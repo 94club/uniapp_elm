@@ -1,0 +1,1 @@
+<template name="2f8f9a38"><view class="_view 2f8f9a38 content"><view class="_view 2f8f9a38 head"><view class="_view 2f8f9a38">ele.me</view><view wx:if="{{!userInfo}}" bindtap="handleProxy" data-eventid="{{'2f8f9a38-0'}}" data-comkey="{{$k}}" class="_view 2f8f9a38">登录|注册</view><view wx:else class="_view 2f8f9a38">{{userInfo.username}}</view></view></view></template>

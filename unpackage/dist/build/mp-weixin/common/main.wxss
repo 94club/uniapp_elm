@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* 这是页面的公用css */
+	/* @import 'components/teaset/teaset.css'; */
+@font-face {
+    font-family: 'iconfont';  /* project id 1049816 */
+    src: url('https://at.alicdn.com/t/font_1049816_jdm8e4l2hma.eot');
+    src: url('https://at.alicdn.com/t/font_1049816_jdm8e4l2hma.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_1049816_jdm8e4l2hma.woff2') format('woff2'),
+    url('https://at.alicdn.com/t/font_1049816_jdm8e4l2hma.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_1049816_jdm8e4l2hma.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_1049816_jdm8e4l2hma.svg#iconfont') format('svg');
+}
+.iconfont {
+    font-family: iconfont;
+}
+page {
+		font-size: 28rpx;
+}
+page {
+		min-height: 100%;
+}
+

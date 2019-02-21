@@ -1,0 +1,4 @@
+1 新增网络请求封装flyio
+2 新增vuex的store, 省略了actions，使用mapState和mapMutations
+http://www.hcoder.net/tutorials/info_1367.html
+3 关于屏幕适配 使用UNIAPP提供的upx ；ip6的设计稿
